@@ -39,11 +39,11 @@ else:
 	print("No GPU")
 
 #########################################################
-dataPath = ('/Volumes/D/NCS_2021-2023/DGID/10_2/dataset/')
-modelPath = '/Volumes/D/NCS_2021-2023/DGID/10_2/'
+dataPath = ('/dataset/')
+modelPath = '/DGID/10_2/'
 fileName = 'train.csv'
-df_train = pd.read_csv('/Volumes/D/NCS_2021-2023/DGID/10_2/dataset/train.csv')
-df_test = pd.read_csv('/Volumes/D/NCS_2021-2023/DGID/10_2/dataset/test.csv')
+df_train = pd.read_csv('train.csv')
+df_test = pd.read_csv('test.csv')
 
 #########################################################
 labels = ['SQL Injection', 'Infilteration', 'DoS attacks-SlowHTTPTest','DoS attacks-GoldenEye', 'Bot', 'DoS attacks-Slowloris','Brute Force -Web', 'DDOS attack-LOIC-UDP', 'Benign','Brute Force -XSS']
