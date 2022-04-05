@@ -17,7 +17,11 @@ For full access to the source code and datasets, please download them by followi
 https://drive.google.com/drive/folders/122mwJiO2fHPZxSdjpZ_Zd5GlSTp7Id87?usp=sharing
 
 With the contributions of the authors:
+
 Hoang V.Vo - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
+
 Hoa N. Nguyen - Corresponding author - hoa.nguyen@vnu.edu.vn - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
+
 Tu N. Nguyen is with the Department of Computer Science, Kennesaw State University, Marietta, GA 30060, USA
+
 Hanh P. Du - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
