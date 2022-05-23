@@ -1,9 +1,9 @@
-# DGID: A Parallel Ensemble Learning of DNN and XGBoost for Improving the Effectiveness of Network Intrusion Detection
+# SDAID: Towards A Hybrid Signature and Deep Analysis-based Intrusion Detection Method
 
 
 Perform an ensemble approach that combines rule-based IDPS and Deep Neural networks for the intrusion detection system.
 
-For the paper "DGID: A Parallel Ensemble Learning of DNN and XGBoost for Improving the Effectiveness of Network Intrusion Detection,"!
+For the paper "SDAID: Towards A Hybrid Signature and Deep Analysis-based Intrusion Detection Method"!
 
 In order to validate and evaluate the effectiveness of the GID method, we use two sub-datasets
 
