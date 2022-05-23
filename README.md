@@ -5,7 +5,7 @@ Perform an ensemble approach that combines rule-based IDPS and Deep Neural netwo
 
 For the paper "SDAID: Towards A Hybrid Signature and Deep Analysis-based Intrusion Detection Method"!
 
-In order to validate and evaluate the effectiveness of the GID method, we use two sub-datasets
+In order to validate and evaluate the effectiveness of the DGID method, we use two sub-datasets
 
 1. The first dataset (DS1) includes CSE-CIC-IDS2018 and the dataset (more than 20,000 flows of SQL injection attacks) that we directly built through the testbed system. Labeling the dataset is also an important step that takes considerable time and effort, so we also create a tool by python for automatically labeling the dataset. The goal of using this dataset is to verify DGID's ability to detect network attacks by analyzing the network traffic correctly.
 
